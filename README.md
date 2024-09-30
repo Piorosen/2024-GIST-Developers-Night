@@ -12,13 +12,14 @@
 
 [[데모용 코드]](https://raw.githubusercontent.com/Piorosen/2024-GIST-Developers-Night/refs/heads/main/main.py)
 
-![](/Resources/03.png)
-
 # 행사 포스터
 
-[![](/Resources/01.png)](https://gistdevnight.notion.site/2024-GIST-Developers-Night-1292632ae49843a79fb3e554c6a926c1)
-[![](/Resources/02.png)](https://gistdevnight.notion.site/2024-GIST-Developers-Night-1292632ae49843a79fb3e554c6a926c1)
+메인 배너|행사 일정
+:---:|:---:
+[![](/Resources/01.png)](https://gistdevnight.notion.site/2024-GIST-Developers-Night-1292632ae49843a79fb3e554c6a926c1)|[![](/Resources/02.png)](https://gistdevnight.notion.site/2024-GIST-Developers-Night-1292632ae49843a79fb3e554c6a926c1)
 
-# 발표 모습
+# 발표
 
-![](/Resources/04.jpg)
+행사 진행|PDF 사진
+:--:|:--:
+![](/Resources/04.jpg)|[![](/Resources/03.png)](https://github.com/Piorosen/2024-GIST-Developers-Night/raw/refs/heads/main/presentation_2024.09.28.pdf)
